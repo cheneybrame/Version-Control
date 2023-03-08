@@ -1,1 +1,1 @@
-sample 100
+sample 3000
